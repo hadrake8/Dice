@@ -1,9 +1,11 @@
+Dice a = new Die()
 void setup()
 {
 	noLoop();
 }
 void draw()
 {
+	background(200);
 	//your code here
 }
 void mousePressed()
